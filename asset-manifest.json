@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://3ngin33r0d1y.github.io/csb-oeubof/static/css/main.dae6170a.chunk.css",
+    "main.js": "https://3ngin33r0d1y.github.io/csb-oeubof/static/js/main.8a1913ff.chunk.js",
+    "main.js.map": "https://3ngin33r0d1y.github.io/csb-oeubof/static/js/main.8a1913ff.chunk.js.map",
+    "runtime-main.js": "https://3ngin33r0d1y.github.io/csb-oeubof/static/js/runtime-main.09c0d578.js",
+    "runtime-main.js.map": "https://3ngin33r0d1y.github.io/csb-oeubof/static/js/runtime-main.09c0d578.js.map",
+    "static/js/2.fa855660.chunk.js": "https://3ngin33r0d1y.github.io/csb-oeubof/static/js/2.fa855660.chunk.js",
+    "static/js/2.fa855660.chunk.js.map": "https://3ngin33r0d1y.github.io/csb-oeubof/static/js/2.fa855660.chunk.js.map",
+    "index.html": "https://3ngin33r0d1y.github.io/csb-oeubof/index.html",
+    "precache-manifest.b9983d8ed82d1d18ecaf009acafc7368.js": "https://3ngin33r0d1y.github.io/csb-oeubof/precache-manifest.b9983d8ed82d1d18ecaf009acafc7368.js",
+    "service-worker.js": "https://3ngin33r0d1y.github.io/csb-oeubof/service-worker.js",
+    "static/css/main.dae6170a.chunk.css.map": "https://3ngin33r0d1y.github.io/csb-oeubof/static/css/main.dae6170a.chunk.css.map",
+    "static/js/2.fa855660.chunk.js.LICENSE": "https://3ngin33r0d1y.github.io/csb-oeubof/static/js/2.fa855660.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09c0d578.js",
+    "static/js/2.fa855660.chunk.js",
+    "static/css/main.dae6170a.chunk.css",
+    "static/js/main.8a1913ff.chunk.js"
+  ]
+}
